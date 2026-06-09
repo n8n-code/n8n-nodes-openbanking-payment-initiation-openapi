@@ -27,8 +27,8 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get Domestic Scheduled Payment Consents Consent Id",
-					"value": "Get Domestic Scheduled Payment Consents Consent Id",
+					"name": "Get Domestic Scheduled Payment Consents Consent ID",
+					"value": "Get Domestic Scheduled Payment Consents Consent ID",
 					"action": "Get Domestic Scheduled Payment Consents",
 					"description": "Get Domestic Scheduled Payment Consents",
 					"routing": {
@@ -51,8 +51,8 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get Domestic Scheduled Payments Domestic Scheduled Payment Id",
-					"value": "Get Domestic Scheduled Payments Domestic Scheduled Payment Id",
+					"name": "Get Domestic Scheduled Payments Domestic Scheduled Payment ID",
+					"value": "Get Domestic Scheduled Payments Domestic Scheduled Payment ID",
 					"action": "Get Domestic Scheduled Payments",
 					"description": "Get Domestic Scheduled Payments",
 					"routing": {
@@ -133,7 +133,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -320,13 +320,13 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payment Consents Consent Id"
+						"Get Domestic Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Consent Id",
+			"displayName": "Consent ID",
 			"name": "ConsentId",
 			"required": true,
 			"description": "ConsentId",
@@ -338,7 +338,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payment Consents Consent Id"
+						"Get Domestic Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
@@ -362,7 +362,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payment Consents Consent Id"
+						"Get Domestic Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
@@ -386,13 +386,13 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payment Consents Consent Id"
+						"Get Domestic Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -410,7 +410,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payment Consents Consent Id"
+						"Get Domestic Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
@@ -435,7 +435,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payment Consents Consent Id"
+						"Get Domestic Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
@@ -459,7 +459,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payment Consents Consent Id"
+						"Get Domestic Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
@@ -532,7 +532,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -719,13 +719,13 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payments Domestic Scheduled Payment Id"
+						"Get Domestic Scheduled Payments Domestic Scheduled Payment ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Domestic Scheduled Payment Id",
+			"displayName": "Domestic Scheduled Payment ID",
 			"name": "DomesticScheduledPaymentId",
 			"required": true,
 			"description": "DomesticScheduledPaymentId",
@@ -737,7 +737,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payments Domestic Scheduled Payment Id"
+						"Get Domestic Scheduled Payments Domestic Scheduled Payment ID"
 					]
 				}
 			}
@@ -761,7 +761,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payments Domestic Scheduled Payment Id"
+						"Get Domestic Scheduled Payments Domestic Scheduled Payment ID"
 					]
 				}
 			}
@@ -785,13 +785,13 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payments Domestic Scheduled Payment Id"
+						"Get Domestic Scheduled Payments Domestic Scheduled Payment ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -809,7 +809,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payments Domestic Scheduled Payment Id"
+						"Get Domestic Scheduled Payments Domestic Scheduled Payment ID"
 					]
 				}
 			}
@@ -834,7 +834,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payments Domestic Scheduled Payment Id"
+						"Get Domestic Scheduled Payments Domestic Scheduled Payment ID"
 					]
 				}
 			}
@@ -858,7 +858,7 @@ export const domesticScheduledPaymentsDescription: INodeProperties[] = [
 						"Domestic Scheduled Payments"
 					],
 					"operation": [
-						"Get Domestic Scheduled Payments Domestic Scheduled Payment Id"
+						"Get Domestic Scheduled Payments Domestic Scheduled Payment ID"
 					]
 				}
 			}

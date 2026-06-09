@@ -27,8 +27,8 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get International Standing Order Consents Consent Id",
-					"value": "Get International Standing Order Consents Consent Id",
+					"name": "Get International Standing Order Consents Consent ID",
+					"value": "Get International Standing Order Consents Consent ID",
 					"action": "Get International Standing Order Consents",
 					"description": "Get International Standing Order Consents",
 					"routing": {
@@ -51,8 +51,8 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get International Standing Orders International Standing Order Payment Id",
-					"value": "Get International Standing Orders International Standing Order Payment Id",
+					"name": "Get International Standing Orders International Standing Order Payment ID",
+					"value": "Get International Standing Orders International Standing Order Payment ID",
 					"action": "Get International Standing Orders",
 					"description": "Get International Standing Orders",
 					"routing": {
@@ -133,7 +133,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -320,13 +320,13 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Order Consents Consent Id"
+						"Get International Standing Order Consents Consent ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Consent Id",
+			"displayName": "Consent ID",
 			"name": "ConsentId",
 			"required": true,
 			"description": "ConsentId",
@@ -338,7 +338,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Order Consents Consent Id"
+						"Get International Standing Order Consents Consent ID"
 					]
 				}
 			}
@@ -362,7 +362,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Order Consents Consent Id"
+						"Get International Standing Order Consents Consent ID"
 					]
 				}
 			}
@@ -386,13 +386,13 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Order Consents Consent Id"
+						"Get International Standing Order Consents Consent ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -410,7 +410,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Order Consents Consent Id"
+						"Get International Standing Order Consents Consent ID"
 					]
 				}
 			}
@@ -435,7 +435,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Order Consents Consent Id"
+						"Get International Standing Order Consents Consent ID"
 					]
 				}
 			}
@@ -459,7 +459,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Order Consents Consent Id"
+						"Get International Standing Order Consents Consent ID"
 					]
 				}
 			}
@@ -532,7 +532,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -719,13 +719,13 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Orders International Standing Order Payment Id"
+						"Get International Standing Orders International Standing Order Payment ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "International Standing Order Payment Id",
+			"displayName": "International Standing Order Payment ID",
 			"name": "InternationalStandingOrderPaymentId",
 			"required": true,
 			"description": "InternationalStandingOrderPaymentId",
@@ -737,7 +737,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Orders International Standing Order Payment Id"
+						"Get International Standing Orders International Standing Order Payment ID"
 					]
 				}
 			}
@@ -761,7 +761,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Orders International Standing Order Payment Id"
+						"Get International Standing Orders International Standing Order Payment ID"
 					]
 				}
 			}
@@ -785,13 +785,13 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Orders International Standing Order Payment Id"
+						"Get International Standing Orders International Standing Order Payment ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -809,7 +809,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Orders International Standing Order Payment Id"
+						"Get International Standing Orders International Standing Order Payment ID"
 					]
 				}
 			}
@@ -834,7 +834,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Orders International Standing Order Payment Id"
+						"Get International Standing Orders International Standing Order Payment ID"
 					]
 				}
 			}
@@ -858,7 +858,7 @@ export const internationalStandingOrdersDescription: INodeProperties[] = [
 						"International Standing Orders"
 					],
 					"operation": [
-						"Get International Standing Orders International Standing Order Payment Id"
+						"Get International Standing Orders International Standing Order Payment ID"
 					]
 				}
 			}

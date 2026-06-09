@@ -8,7 +8,7 @@ import type {
 export class OpenbankingPaymentInitiationOpenapiApi implements ICredentialType {
 	name = 'N8nDevOpenbankingPaymentInitiationOpenapiApi';
 
-	displayName = 'openbanking-payment-initiation-openapi API';
+	displayName = 'Openbanking Payment Initiation Openapi';
 
 	icon: Icon = { light: 'file:../nodes/OpenbankingPaymentInitiationOpenapi/openbanking-payment-initiation-openapi.png', dark: 'file:../nodes/OpenbankingPaymentInitiationOpenapi/openbanking-payment-initiation-openapi.dark.png' };
 
@@ -22,7 +22,7 @@ export class OpenbankingPaymentInitiationOpenapiApi implements ICredentialType {
 			default: 'https://openbanking.org.uk',
 			required: true,
 			placeholder: 'https://openbanking.org.uk',
-			description: 'The base URL of your openbanking-payment-initiation-openapi API server',
+			description: 'The base URL of your Openbanking Payment Initiation Openapi server',
 		},
 		{
 			displayName: 'API Key',

@@ -10,14 +10,14 @@ import { internationalStandingOrdersDescription } from './resources/internationa
 
 export class OpenbankingPaymentInitiationOpenapi implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'openbanking-payment-initiation-openapi',
+		displayName: 'Openbanking Payment Initiation Openapi',
 		name: 'N8nDevOpenbankingPaymentInitiationOpenapi',
 		icon: { light: 'file:./openbanking-payment-initiation-openapi.png', dark: 'file:./openbanking-payment-initiation-openapi.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Swagger for Payment Initiation API Specification',
-		defaults: { name: 'openbanking-payment-initiation-openapi' },
+		defaults: { name: 'Openbanking Payment Initiation Openapi' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

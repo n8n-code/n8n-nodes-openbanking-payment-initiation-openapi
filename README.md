@@ -53,16 +53,94 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Domestic Payments | Post create domestic payment consents, Get domestic payment consents, Get domestic payment consents funds confirmation, Post create domestic payments, Get domestic payments |
-| Payment Details | Get payment details, Get payment details, Get payment details, Get payment details, Get payment details, Get payment details, Get payment details |
-| Domestic Scheduled Payments | Post create domestic scheduled payment consents, Get domestic scheduled payment consents, Post create domestic scheduled payments, Get domestic scheduled payments |
-| Domestic Standing Orders | Post create domestic standing order consents, Get domestic standing order consents, Post create domestic standing orders, Get domestic standing orders |
-| File Payments | Post create file payment consents, Get file payment consents, Get file payment consents, Post create file payment consents, Post create file payments, Get file payments, Get file payments |
-| International Payments | Post create international payment consents, Get international payment consents, Get international payment consents funds confirmation, Post create international payments, Get international payments |
-| International Scheduled Payments | Post create international scheduled payment consents, Get international scheduled payment consents, Get international scheduled payment consents funds confirmation, Post create international scheduled payments, Get international scheduled payments |
-| International Standing Orders | Post create international standing order consents, Get international standing order consents, Post create international standing orders, Get international standing orders |
+<details>
+<summary><b>Domestic Payments</b> (5 operations)</summary>
+
+- Post Create Domestic Payment Consents
+- Get Domestic Payment Consents
+- Get Domestic Payment Consents Funds Confirmation
+- Post Create Domestic Payments
+- Get Domestic Payments
+
+</details>
+
+<details>
+<summary><b>Payment Details</b> (7 operations)</summary>
+
+- Get Payment Details
+- Get Payment Details
+- Get Payment Details
+- Get Payment Details
+- Get Payment Details
+- Get Payment Details
+- Get Payment Details
+
+</details>
+
+<details>
+<summary><b>Domestic Scheduled Payments</b> (4 operations)</summary>
+
+- Post Create Domestic Scheduled Payment Consents
+- Get Domestic Scheduled Payment Consents
+- Post Create Domestic Scheduled Payments
+- Get Domestic Scheduled Payments
+
+</details>
+
+<details>
+<summary><b>Domestic Standing Orders</b> (4 operations)</summary>
+
+- Post Create Domestic Standing Order Consents
+- Get Domestic Standing Order Consents
+- Post Create Domestic Standing Orders
+- Get Domestic Standing Orders
+
+</details>
+
+<details>
+<summary><b>File Payments</b> (7 operations)</summary>
+
+- Post Create File Payment Consents
+- Get File Payment Consents
+- Get File Payment Consents
+- Post Create File Payment Consents
+- Post Create File Payments
+- Get File Payments
+- Get File Payments
+
+</details>
+
+<details>
+<summary><b>International Payments</b> (5 operations)</summary>
+
+- Post Create International Payment Consents
+- Get International Payment Consents
+- Get International Payment Consents Funds Confirmation
+- Post Create International Payments
+- Get International Payments
+
+</details>
+
+<details>
+<summary><b>International Scheduled Payments</b> (5 operations)</summary>
+
+- Post Create International Scheduled Payment Consents
+- Get International Scheduled Payment Consents
+- Get International Scheduled Payment Consents Funds Confirmation
+- Post Create International Scheduled Payments
+- Get International Scheduled Payments
+
+</details>
+
+<details>
+<summary><b>International Standing Orders</b> (4 operations)</summary>
+
+- Post Create International Standing Order Consents
+- Get International Standing Order Consents
+- Post Create International Standing Orders
+- Get International Standing Orders
+
+</details>
 
 ---
 

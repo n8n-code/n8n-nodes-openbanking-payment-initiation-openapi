@@ -27,8 +27,8 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get Domestic Standing Order Consents Consent Id",
-					"value": "Get Domestic Standing Order Consents Consent Id",
+					"name": "Get Domestic Standing Order Consents Consent ID",
+					"value": "Get Domestic Standing Order Consents Consent ID",
 					"action": "Get Domestic Standing Order Consents",
 					"description": "Get Domestic Standing Order Consents",
 					"routing": {
@@ -51,8 +51,8 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get Domestic Standing Orders Domestic Standing Order Id",
-					"value": "Get Domestic Standing Orders Domestic Standing Order Id",
+					"name": "Get Domestic Standing Orders Domestic Standing Order ID",
+					"value": "Get Domestic Standing Orders Domestic Standing Order ID",
 					"action": "Get Domestic Standing Orders",
 					"description": "Get Domestic Standing Orders",
 					"routing": {
@@ -133,7 +133,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -320,13 +320,13 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Order Consents Consent Id"
+						"Get Domestic Standing Order Consents Consent ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Consent Id",
+			"displayName": "Consent ID",
 			"name": "ConsentId",
 			"required": true,
 			"description": "ConsentId",
@@ -338,7 +338,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Order Consents Consent Id"
+						"Get Domestic Standing Order Consents Consent ID"
 					]
 				}
 			}
@@ -362,7 +362,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Order Consents Consent Id"
+						"Get Domestic Standing Order Consents Consent ID"
 					]
 				}
 			}
@@ -386,13 +386,13 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Order Consents Consent Id"
+						"Get Domestic Standing Order Consents Consent ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -410,7 +410,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Order Consents Consent Id"
+						"Get Domestic Standing Order Consents Consent ID"
 					]
 				}
 			}
@@ -435,7 +435,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Order Consents Consent Id"
+						"Get Domestic Standing Order Consents Consent ID"
 					]
 				}
 			}
@@ -459,7 +459,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Order Consents Consent Id"
+						"Get Domestic Standing Order Consents Consent ID"
 					]
 				}
 			}
@@ -532,7 +532,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -719,13 +719,13 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Orders Domestic Standing Order Id"
+						"Get Domestic Standing Orders Domestic Standing Order ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Domestic Standing Order Id",
+			"displayName": "Domestic Standing Order ID",
 			"name": "DomesticStandingOrderId",
 			"required": true,
 			"description": "DomesticStandingOrderId",
@@ -737,7 +737,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Orders Domestic Standing Order Id"
+						"Get Domestic Standing Orders Domestic Standing Order ID"
 					]
 				}
 			}
@@ -761,7 +761,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Orders Domestic Standing Order Id"
+						"Get Domestic Standing Orders Domestic Standing Order ID"
 					]
 				}
 			}
@@ -785,13 +785,13 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Orders Domestic Standing Order Id"
+						"Get Domestic Standing Orders Domestic Standing Order ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -809,7 +809,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Orders Domestic Standing Order Id"
+						"Get Domestic Standing Orders Domestic Standing Order ID"
 					]
 				}
 			}
@@ -834,7 +834,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Orders Domestic Standing Order Id"
+						"Get Domestic Standing Orders Domestic Standing Order ID"
 					]
 				}
 			}
@@ -858,7 +858,7 @@ export const domesticStandingOrdersDescription: INodeProperties[] = [
 						"Domestic Standing Orders"
 					],
 					"operation": [
-						"Get Domestic Standing Orders Domestic Standing Order Id"
+						"Get Domestic Standing Orders Domestic Standing Order ID"
 					]
 				}
 			}

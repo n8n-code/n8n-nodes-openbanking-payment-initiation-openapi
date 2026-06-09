@@ -27,8 +27,8 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get International Scheduled Payment Consents Consent Id",
-					"value": "Get International Scheduled Payment Consents Consent Id",
+					"name": "Get International Scheduled Payment Consents Consent ID",
+					"value": "Get International Scheduled Payment Consents Consent ID",
 					"action": "Get International Scheduled Payment Consents",
 					"description": "Get International Scheduled Payment Consents",
 					"routing": {
@@ -39,8 +39,8 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get International Scheduled Payment Consents Consent Id Funds Confirmation",
-					"value": "Get International Scheduled Payment Consents Consent Id Funds Confirmation",
+					"name": "Get International Scheduled Payment Consents Consent ID Funds Confirmation",
+					"value": "Get International Scheduled Payment Consents Consent ID Funds Confirmation",
 					"action": "Get International Scheduled Payment Consents Funds Confirmation",
 					"description": "Get International Scheduled Payment Consents Funds Confirmation",
 					"routing": {
@@ -63,8 +63,8 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "Get International Scheduled Payments International Scheduled Payment Id",
-					"value": "Get International Scheduled Payments International Scheduled Payment Id",
+					"name": "Get International Scheduled Payments International Scheduled Payment ID",
+					"value": "Get International Scheduled Payments International Scheduled Payment ID",
 					"action": "Get International Scheduled Payments",
 					"description": "Get International Scheduled Payments",
 					"routing": {
@@ -145,7 +145,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -332,13 +332,13 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id"
+						"Get International Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Consent Id",
+			"displayName": "Consent ID",
 			"name": "ConsentId",
 			"required": true,
 			"description": "ConsentId",
@@ -350,7 +350,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id"
+						"Get International Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
@@ -374,7 +374,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id"
+						"Get International Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
@@ -398,13 +398,13 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id"
+						"Get International Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -422,7 +422,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id"
+						"Get International Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
@@ -447,7 +447,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id"
+						"Get International Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
@@ -471,7 +471,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id"
+						"Get International Scheduled Payment Consents Consent ID"
 					]
 				}
 			}
@@ -490,13 +490,13 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id Funds Confirmation"
+						"Get International Scheduled Payment Consents Consent ID Funds Confirmation"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Consent Id",
+			"displayName": "Consent ID",
 			"name": "ConsentId",
 			"required": true,
 			"description": "ConsentId",
@@ -508,7 +508,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id Funds Confirmation"
+						"Get International Scheduled Payment Consents Consent ID Funds Confirmation"
 					]
 				}
 			}
@@ -532,7 +532,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id Funds Confirmation"
+						"Get International Scheduled Payment Consents Consent ID Funds Confirmation"
 					]
 				}
 			}
@@ -556,13 +556,13 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id Funds Confirmation"
+						"Get International Scheduled Payment Consents Consent ID Funds Confirmation"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -580,7 +580,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id Funds Confirmation"
+						"Get International Scheduled Payment Consents Consent ID Funds Confirmation"
 					]
 				}
 			}
@@ -605,7 +605,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id Funds Confirmation"
+						"Get International Scheduled Payment Consents Consent ID Funds Confirmation"
 					]
 				}
 			}
@@ -629,7 +629,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payment Consents Consent Id Funds Confirmation"
+						"Get International Scheduled Payment Consents Consent ID Funds Confirmation"
 					]
 				}
 			}
@@ -702,7 +702,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -889,13 +889,13 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payments International Scheduled Payment Id"
+						"Get International Scheduled Payments International Scheduled Payment ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "International Scheduled Payment Id",
+			"displayName": "International Scheduled Payment ID",
 			"name": "InternationalScheduledPaymentId",
 			"required": true,
 			"description": "InternationalScheduledPaymentId",
@@ -907,7 +907,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payments International Scheduled Payment Id"
+						"Get International Scheduled Payments International Scheduled Payment ID"
 					]
 				}
 			}
@@ -931,7 +931,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payments International Scheduled Payment Id"
+						"Get International Scheduled Payments International Scheduled Payment ID"
 					]
 				}
 			}
@@ -955,13 +955,13 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payments International Scheduled Payment Id"
+						"Get International Scheduled Payments International Scheduled Payment ID"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "X Fapi Interaction Id",
+			"displayName": "X Fapi Interaction ID",
 			"name": "x-fapi-interaction-id",
 			"description": "An RFC4122 UID used as a correlation id.",
 			"default": "",
@@ -979,7 +979,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payments International Scheduled Payment Id"
+						"Get International Scheduled Payments International Scheduled Payment ID"
 					]
 				}
 			}
@@ -1004,7 +1004,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payments International Scheduled Payment Id"
+						"Get International Scheduled Payments International Scheduled Payment ID"
 					]
 				}
 			}
@@ -1028,7 +1028,7 @@ export const internationalScheduledPaymentsDescription: INodeProperties[] = [
 						"International Scheduled Payments"
 					],
 					"operation": [
-						"Get International Scheduled Payments International Scheduled Payment Id"
+						"Get International Scheduled Payments International Scheduled Payment ID"
 					]
 				}
 			}
